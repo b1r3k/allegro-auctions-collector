@@ -1,0 +1,32 @@
+### Python & virtualenv
+*.pyc
+/.project
+/.pydevproject
+/.settings
+/static
+/env
+/py-env
+
+### idea
+*ipr
+*iml
+*iws
+/.idea
+
+### Sublime
+*.sublime*
+
+### diff & patch
+*.diff
+*.patch
+*.rej
+*.orig
+
+### merge
+*.LOCAL.*
+*.REMOTE.*
+*.BASE.*
+*.BACKUP.*
+
+# ignore user credentials / local settings
+*.csv*
